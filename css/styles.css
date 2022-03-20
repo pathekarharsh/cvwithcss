@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  line-height: 1;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 6rem;
+  margin: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #66BFBF;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding: bottom;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted grey 5px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: static;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  line-height: 3;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.7;
+}
+
+.pr{
+  width: 30%;
+  margin: auto
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.blender{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies{
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.contact-me{
+  line-height: 3;
+}
+
+.btn{
+  background-color: #11cdd4;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 20%;
+  line-height: 2;
+  font-family: tahoma;
+}
+
+.btn:link{
+  color: #FFFFFF;
+  text-decoration-color: #11cdd4;
+}
+
+.w{
+  color: #EAF6F6;
+  margin: auto;
+  padding: 20px;
+  font-size: 0.75rem;
+}
+
+.footer-link-1:link{
+  color: #EAF6F6;
+  text-decoration-color: #11999E;
+}
